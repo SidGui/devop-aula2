@@ -2,5 +2,9 @@
 Exercício aula 2 - devops
 
 Johnny Depp
-Angelina Jolie
+
+Pamela Anderson
+
 Jackie Chan
+
+Alexis Texas
